@@ -6,4 +6,6 @@ pypdf
 langchain
 pandas
 numpy
+python-dotenv
+
 -e .
