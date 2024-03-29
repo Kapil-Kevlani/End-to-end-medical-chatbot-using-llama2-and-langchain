@@ -6,3 +6,4 @@ pypdf
 langchain
 pandas
 numpy
+-e .
